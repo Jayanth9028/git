@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 testing merge conflict
 =======
 testing branch1 merge
+>>>>>>> branch1
+=======
+testing branch1 merge----rebase test
 >>>>>>> branch1
